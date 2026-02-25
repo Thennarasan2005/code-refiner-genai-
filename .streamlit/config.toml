@@ -1,0 +1,19 @@
+[theme]
+base = "dark"
+```
+
+---
+
+**4.** Click **"Commit changes..."** (green button top right)
+
+**5.** Popup appears → click **"Commit changes"** again
+
+---
+
+## After This Your Repo Will Have
+```
+✅ README.md
+✅ app.py
+✅ requirements.txt
+✅ .gitignore
+✅ .streamlit/config.toml
